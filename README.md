@@ -2,7 +2,7 @@
 
 ### **Description**
 
-**19krb** is a shell script to properly setup **kerberos** to let it work also outside the **19** clusters.
+**19krb** is a shell script to properly setup **kerberos** and access the **19 vogosphere** outside clusters.
 
 ### **Setup**
 
